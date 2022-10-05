@@ -1,0 +1,7 @@
+tup1=(5,"hello","welcome",9)
+tup2=(6,"hi","bye",8)
+print(tup1)
+print(tup2[2:])
+print(tup1[1:3])
+print(tup1+tup2)
+print(tup1*2)
